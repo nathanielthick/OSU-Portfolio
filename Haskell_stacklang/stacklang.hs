@@ -1,9 +1,5 @@
--- --------------------------------------
--- Nathaniel Thickett
--- CS 381
--- HW5 Types
--- --------------------------------------
-module HW5sol where
+
+module stacklang where
 import Data.Maybe
 import HW5types
 
