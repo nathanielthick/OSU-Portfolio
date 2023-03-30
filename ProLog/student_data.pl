@@ -1,8 +1,3 @@
-/*
-* Nathaniel Thickett
-* HW7
-* 3/15/23
-*/
 
 /* course(course_number, course_name, credits) */
 
